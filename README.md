@@ -1,3 +1,24 @@
+We will iteratively build up a [website](https://simonsimson.github.io/criticalsocialmedia/) for the course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/simonsimson/criticalsocialmedia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
