@@ -1,0 +1,23 @@
+How to set up the Jupyter notebook:
+
+Setting up Jupyter:
+Install Anaconda: https://www.anaconda.com/products/individual 
+
+Create an anaconda environment:
+conda create -n [environment name] python=3.6
+
+Deactivate base environment:
+conda deactivate
+
+Activate your environment
+conda activate [environment name]
+
+Install Jupiter Lab
+conda install -c conda-forge jupyterlab
+￼
+Start jupyter lab:
+jupyter lab
+
+It should start in the browser. If not, just follow the link in the terminal.
+
+All other dependecies will be installed from within the notebook.
