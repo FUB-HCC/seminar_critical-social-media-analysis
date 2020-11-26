@@ -1,10 +1,7 @@
-Pipeline/src/data/videoinfo_VbiRNT_gWUQ_2020_01_16-10_08_40_comments.tab
-Pipeline/src/data/videoinfo_VbiRNT_gWUQ_2020_01_16-10_08_40_comments.tab - videoinfo_VbiRNT_gWUQ_2020_01_16-10_08_40_comments.tab.csv
-Pipeline/src/data/data_description.txt
-Pipeline/src/output/data_preprocessed.pkl
-Pipeline/src/output/embeddingsTransformer.npy
-Pipeline/src/.ipynb_checkpoints/Assignment-4_Language_model.ipynb
-Pipeline/src/.ipynb_checkpoints/Assignment-4_Language_model-checkpoint.ipynb
-Pipeline/src/data/.DS_Store
-Pipeline/.DS_Store
-Pipeline/.DS_Store
+Pipeline/src/data/
+Pipeline/src/data/
+Pipeline/src/data/
+Pipeline/src/output/
+Pipeline/src/output/
+Pipeline/src/.ipynb_checkpoints/
+Pipeline/src/.ipynb_checkpoints/
