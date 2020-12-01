@@ -1,12 +1,8 @@
-Pipeline/src/data/
-Pipeline/src/data/
-Pipeline/src/data/
-Pipeline/src/output/
-Pipeline/src/output/
-Pipeline/src/.ipynb_checkpoints/
-Pipeline/src/.ipynb_checkpoints/
-Pipeline/src/.DS_Store
-Pipeline/.DS_Store
+output
+data
+venv
+.idea
+.ipynb_checkpoints
 .DS_Store
 /robin_wenzel_assignment_4/output/
 /robin_wenzel_assignment_4/.ipynb_checkpoints/
