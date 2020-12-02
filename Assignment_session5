@@ -1,0 +1,33 @@
+1.
+The used mode of inquiry after the three categories proposed by Marres and Moats is precautionary.
+The influence of the platform (Twitter) is mostly ignored by the authors of the paper, 
+instead they are mainly focused on issue based dynamics.
+They even mention in their Abstract that "In recent months, a body of literature has emerged to suggest the
+robustness of trends in online activity as proxies for the epidemiological and sociological impact of COVID-19".
+There assumption seems to be that their data is shaped by real world events and opinions rather than being an own ecosystem.
+
+While the precautionary approach would aslo include "cleaning" the data of platform bias first, the authors assume that 
+there is no large scale distortion in their data and that the Twitter Sample data is
+accuratly reflecting the overall Twitter data.
+Botbehavior, platform/sampling bias or purposeful manipulation are therefor of no concern to the authors.
+
+One question that remains unanswered is if the data from which they draw their conclusions is already biased and
+therefor not suited to make assumptions about the real world opinions on the topic of masks.
+The affirmative approach is also not suited to explain the mutual influence of social media (like Twitter) and
+issue dynamics. We, for example, do not know if the polarization over time on this topic results from real world events or
+from the effects of people consuming social media in a self-enhancing cycle.
+
+2.
+While the first comments have quite similiar topics and opinions, with increasing rank the comments are estranged 
+from the original one.The model is therefor suited to find some similar comments, but one can not rely on the overall similarity.
+
+Also the model assumes that every comment is equal, only consisting of the words used in it. Bot behavior, manipulation etc.
+is not taken into account. Metadata like Usernames, Dates etc. are also not taken into account.
+
+Depending on the topic of the project, semantic analysis can help to find popular arguments or opinion, how
+often they are used, in which context etc. This language model is a good option for such a semantic analysis.
+Like mentioned above it is mostly suited to analyze issue dynamics on big data sets.
+
+But I would first try to clean the data from unwanted artifacts before using it. In fact this tool can also help to
+find spam, bots etc by providing similar comments to a selected comment. So it can be part of the cleaning process.
+Afterwards it can be used to study the "clean" data. It than can be complemented by graphs showing user interaction etc.
